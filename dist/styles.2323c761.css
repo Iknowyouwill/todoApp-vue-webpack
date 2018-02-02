@@ -1,0 +1,22 @@
+#footer {
+  margin-top: 40px;
+  text-align: center;
+  color: rgba(187,187,187,0.733) b;
+  font-size: 20px;
+  text-shadow: 0 1px 0 #666;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+a {
+  border: none;
+  outline: none;
+  text-decoration: none;
+}
+body {
+  background: url(wx-wp.jpg);
+}
