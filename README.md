@@ -2,7 +2,7 @@
 ##vue + webpack
 ##开发与生产环境区分
 ##vue css webpack分开打包
-`
+```
 if(isDev) {//开发环境
   config.module.rules.push(
     {
@@ -66,5 +66,5 @@ if(isDev) {//开发环境
     })
   )
 }
-`
+```
 
